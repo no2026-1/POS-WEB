@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "dashboard": "แดชบอร์ด",
+    "branch": "สาขา",
+    "basic": "ข้อมูลพื้นฐาน",
+    "department": "แผนก",
+    "employee": "พนักงาน",
+    "location": "คลังสินค้า",
+    "user": "ผู้ใช้งาน"
+  },
+  "common": {
+    "save": "บันทึก",
+    "saving": "กำลังบันทึก...",
+    "cancel": "ยกเลิก",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "deleting": "กำลังลบ...",
+    "confirm": "ยืนยัน",
+    "search": "ค้นหา...",
+    "loading": "กำลังโหลด...",
+    "noData": "ไม่มีข้อมูล",
+    "add": "เพิ่ม",
+    "status": "สถานะ",
+    "active": "ใช้งาน",
+    "inactive": "ปิดใช้งาน",
+    "previous": "ก่อนหน้า",
+    "next": "ถัดไป",
+    "page": "หน้า",
+    "total": "ทั้งหมด",
+    "items": "รายการ",
+    "error": "เกิดข้อผิดพลาด",
+    "logout": "ออกจากระบบ"
+  },
+  "auth": {
+    "login": "เข้าสู่ระบบ",
+    "loginTitle": "ระบบ POS",
+    "loginSubtitle": "เข้าสู่ระบบเพื่อดำเนินการต่อ",
+    "email": "อีเมล",
+    "password": "รหัสผ่าน",
+    "loginButton": "เข้าสู่ระบบ",
+    "loggingIn": "กำลังเข้าสู่ระบบ...",
+    "invalidCredentials": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
+    "welcome": "ยินดีต้อนรับ"
+  },
+  "branch": {
+    "title": "สาขา",
+    "add": "เพิ่มสาขา",
+    "edit": "แก้ไขสาขา",
+    "code": "รหัสสาขา",
+    "englishName": "ชื่อ (ภาษาอังกฤษ)",
+    "localName": "ชื่อท้องถิ่น",
+    "tel": "เบอร์โทร",
+    "address": "ที่อยู่",
+    "deleteConfirmTitle": "ยืนยันการลบ",
+    "deleteConfirmMessage": "สาขานี้จะถูกปิดการใช้งาน"
+  }
+}

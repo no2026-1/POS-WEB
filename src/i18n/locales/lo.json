@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "dashboard": "ແດຊບອດ",
+    "branch": "ສາຂາ",
+    "basic": "ຂໍ້ມູນພື້ນຖານ",
+    "department": "ພະແນກ",
+    "employee": "ພະນັກງານ",
+    "location": "ສາງສິນຄ້າ",
+    "user": "ຜູ້ໃຊ້ງານ"
+  },
+  "common": {
+    "save": "ບັນທຶກ",
+    "saving": "ກຳລັງບັນທຶກ...",
+    "cancel": "ຍົກເລີກ",
+    "edit": "ແກ້ໄຂ",
+    "delete": "ລຶບ",
+    "deleting": "ກຳລັງລຶບ...",
+    "confirm": "ຢືນຢັນ",
+    "search": "ຄົ້ນຫາ...",
+    "loading": "ກຳລັງໂຫລດ...",
+    "noData": "ບໍ່ມີຂໍ້ມູນ",
+    "add": "ເພີ່ມ",
+    "status": "ສະຖານະ",
+    "active": "ໃຊ້ງານ",
+    "inactive": "ປິດໃຊ້ງານ",
+    "previous": "ກ່ອນໜ້າ",
+    "next": "ຖັດໄປ",
+    "page": "ໜ້າ",
+    "total": "ທັງໝົດ",
+    "items": "ລາຍການ",
+    "error": "ເກີດຂໍ້ຜິດພາດ",
+    "logout": "ອອກຈາກລະບົບ"
+  },
+  "auth": {
+    "login": "ເຂົ້າສູ່ລະບົບ",
+    "loginTitle": "ລະບົບ POS",
+    "loginSubtitle": "ເຂົ້າສູ່ລະບົບເພື່ອດຳເນີນການຕໍ່",
+    "email": "ອີເມລ",
+    "password": "ລະຫັດຜ່ານ",
+    "loginButton": "ເຂົ້າສູ່ລະບົບ",
+    "loggingIn": "ກຳລັງເຂົ້າສູ່ລະບົບ...",
+    "invalidCredentials": "ອີເມລ ຫຼື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ",
+    "welcome": "ຍິນດີຕ້ອນຮັບ"
+  },
+  "branch": {
+    "title": "ສາຂາ",
+    "add": "ເພີ່ມສາຂາ",
+    "edit": "ແກ້ໄຂສາຂາ",
+    "code": "ລະຫັດສາຂາ",
+    "englishName": "ຊື່ (ພາສາອັງກິດ)",
+    "localName": "ຊື່ທ້ອງຖິ່ນ",
+    "tel": "ເບີໂທ",
+    "address": "ທີ່ຢູ່",
+    "deleteConfirmTitle": "ຢືນຢັນການລຶບ",
+    "deleteConfirmMessage": "ສາຂານີ້ຈະຖືກປິດການໃຊ້ງານ"
+  }
+}
