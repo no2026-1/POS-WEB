@@ -48,10 +48,10 @@ function ProductPanel({
     categoryId: product?.categoryId ?? undefined,
     groupId: product?.groupId ?? undefined,
     brandId: product?.brandId ?? undefined,
-    costPrice: product?.costPrice ?? undefined,
-    sellingPrice: product?.sellingPrice ?? undefined,
+    costPrice: product?.costPrice != null ? Number(product.costPrice) : undefined,
+    sellingPrice: product?.sellingPrice != null ? Number(product.sellingPrice) : undefined,
     trackStock: product?.trackStock ?? false,
-    minStockLevel: product?.minStockLevel ?? undefined,
+    minStockLevel: product?.minStockLevel != null ? Number(product.minStockLevel) : undefined,
     remarks: product?.remarks ?? '',
   })
   const [confirmDelete, setConfirmDelete] = useState(false)
