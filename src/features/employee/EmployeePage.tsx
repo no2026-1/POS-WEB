@@ -43,7 +43,7 @@ function EmployeePanel({
     englishName: employee?.englishName ?? '',
     localName: employee?.localName ?? '',
     position: employee?.position ?? '',
-    hireDate: employee?.hireDate ?? '',
+    hireDate: employee?.hireDate ? employee.hireDate.slice(0, 10) : '',
     phone: employee?.phone ?? '',
     email: employee?.email ?? '',
     address: employee?.address ?? '',
