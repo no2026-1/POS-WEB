@@ -1,6 +1,7 @@
 {
   "nav": {
     "dashboard": "Dashboard",
+    "company": "Company",
     "branch": "Branch",
     "basic": "Basic Data",
     "department": "Department",
@@ -34,7 +35,14 @@
     "customerCredit": "Customer Credit",
     "sectionSettings": "Settings",
     "exchangeRate": "Exchange Rate",
-    "productConversion": "Product Conversion"
+    "productConversion": "Product Conversion",
+    "stockMove": "Stock Transfer",
+    "productPrice": "Product Prices",
+    "sectionRestaurant": "Restaurant",
+    "tables": "Tables",
+    "approval": "Approvals",
+    "permission": "Permissions",
+    "reports": "Reports Overview"
   },
   "common": {
     "save": "Save",
@@ -64,7 +72,11 @@
     "remarks": "Remarks",
     "updateSuccess": "Updated successfully",
     "createSuccess": "Created successfully",
-    "deleteSuccess": "Deleted successfully"
+    "deleteSuccess": "Deleted successfully",
+    "allStatus": "All Status",
+    "allProducts": "All Products",
+    "allTypes": "All Types",
+    "create": "Create"
   },
   "auth": {
     "login": "Login",
@@ -373,5 +385,45 @@
     "debit": "Debit",
     "credit": "Credit",
     "balance": "Balance"
+  },
+  "stockMove": {
+    "title": "Stock Transfer",
+    "subtitle": "Transfer stock between warehouses",
+    "new": "New Transfer",
+    "moveNo": "Transfer No.",
+    "moveDate": "Transfer Date",
+    "locationFrom": "From Warehouse",
+    "locationTo": "To Warehouse",
+    "requireApproval": "Require Approval",
+    "lines": "Transfer Lines",
+    "addLine": "Add Line",
+    "qty": "Qty",
+    "approve": "Approve",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "productPrice": {
+    "title": "Product Prices",
+    "subtitle": "Manage product price lists",
+    "add": "Add Price",
+    "edit": "Edit Price",
+    "priceType": "Price Type",
+    "price": "Price",
+    "currency": "Currency",
+    "effectiveDate": "Effective Date",
+    "expiryDate": "Expiry Date"
+  },
+  "table": {
+    "title": "Tables",
+    "subtitle": "Restaurant table management",
+    "add": "Add Table",
+    "edit": "Edit Table",
+    "code": "Table Code",
+    "name": "Table Name",
+    "zone": "Zone",
+    "capacity": "Capacity",
+    "location": "Location",
+    "quickStatus": "Quick Status Change",
+    "allZones": "All Zones"
   }
 }
